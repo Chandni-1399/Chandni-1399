@@ -1,11 +1,10 @@
 ![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)
 <h1 align="center">Hi 👋, I'm Chandni</h1>
 <h3 align="center">A passionate web developer from India</h3>
+
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTai80tlLRKENl0nzRB-eQHhTO6srmr609eBw&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandni-1399&label=Profile%20views&color=0e75b6&style=flat" alt="chandni-1399" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandni-1399" alt="chandni-1399" /></a> </p>
 
 - 🌱 I’m currently learning **Reactjs ,Nodejs**
 
