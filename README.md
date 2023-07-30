@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Chandni</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/706457c438d2031942745299f52de650adf45a3b87de1ded443696b405dd881d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343035353439342f73637265656e73686f74732f31353231353735362f6d656469612f64326236366334636130313932616132366431303334343862336431353138622e676966">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Fanimations%2Fweb-developer-46WyJcBHJ8&psig=AOvVaw0uZsK45BJcNngXfu-b2CUh&ust=1690797745420000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICu1sqWtoADFQAAAAAdAAAAABAJ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandni-1399&label=Profile%20views&color=0e75b6&style=flat" alt="chandni-1399" /> </p>
 
