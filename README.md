@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Chandni</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fgislenescarvalho&psig=AOvVaw0uZsK45BJcNngXfu-b2CUh&ust=1690797745420000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICu1sqWtoADFQAAAAAdAAAAABAt">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/005ddebe130baf4d93686685cdaa7af338c32f6252703c611399b85697b75b19/68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f313633313934373634383936343738353437342f383143424131353137383436364444343731393541323339323332323032453738393837423731342f3f696d773d36333726696d683d33353826696d613d66697426696d706f6c6963793d4c6574746572626f7826696d636f6c6f723d253233303030303030266c6574746572626f783d74727565">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandni-1399&label=Profile%20views&color=0e75b6&style=flat" alt="chandni-1399" /> </p>
 
