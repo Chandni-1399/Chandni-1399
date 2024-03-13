@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)
 <h1 align="center">Hi 👋, I'm Chandni Gupta</h1>
-<h3 align="center">Solely interested in Data Science, Cloud Computing and web development!!</h3>
+<h3 align="center">Solely interested in Data Science, Cloud Computing and Web development!!</h3>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
@@ -12,9 +12,7 @@
 
 - 📫 How to reach me **gupchi13@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/home](https://drive.google.com/drive/home)
-
-- ⚡ Fun fact **I am eager to know more about new technologies**
+- ⚡ Fun fact **I am eager to know more about new technologies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
